@@ -1,0 +1,2 @@
+# this line has motif1 and motif1 in iy 
+# This lone has motif2 only
